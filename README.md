@@ -53,6 +53,6 @@ This project helped me connect everything I learned during the internship.
 
 ## Author
 
-Shubham Jaiswal
-Internship Trainee | TECHTERN
+Shubham Jaiswal  
+Internship Trainee | TECHTERN  
 April 2026
